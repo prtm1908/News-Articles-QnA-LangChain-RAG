@@ -1,4 +1,4 @@
-# News-Article-QnA-LangChain
+# News-Articles-QnA-LangChain
 
 Welcome to the News Article Question and Answering repository, where we've created a Language Model (LLM) powered by LangChain and OpenAI API. This LLM takes URLs of news articles and provides answers to questions about them. 
 
