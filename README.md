@@ -1,4 +1,4 @@
-# News-Articles-QnA-LangChain
+# News-Articles-QnA-LangChain-RAG
 
 Welcome to the News Article Question and Answering repository, where we've created a Language Model (LLM) powered by LangChain and OpenAI API. This LLM takes URLs of news articles and provides answers to questions about them. 
 
@@ -9,7 +9,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/prtm1908/News-Articles-QnA-LangChain.git
+    git clone https://github.com/prtm1908/News-Articles-QnA-LangChain-RAG.git
     ```
 2. Navigate to the repository's directory.
 3. Download the requirements:
